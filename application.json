@@ -20,6 +20,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Mgs.persons",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
